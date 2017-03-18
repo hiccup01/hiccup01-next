@@ -4,6 +4,17 @@
   <title>hiccup01's Website</title>
 </head>
 <body>
-
+<script src="email.js"></script>
+<script type="text/javascript">
+  var contact = new email({
+    target: document.querySelector('email'),
+    data: {
+      name: "hiccup",
+      domain: "hiccup01.com"
+    }
+  })
+</script>
+<h2>hiccup01's Website</h2>
+<email></email>
 </body>
 </html>
