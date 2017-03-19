@@ -1,0 +1,10 @@
+body {
+    width: 75%;
+    background-color: #f9eebd;
+    font-family: Source Code Pro,Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace;
+}
+@media only screen and (max-width: 750px) {
+	body {
+		width: auto;
+	}
+}

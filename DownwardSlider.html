@@ -1,0 +1,21 @@
+<span class="downwardslider">{{title}}
+<span class="items hidden">
+<ul>
+{{#each items as item}}
+	<li><a href="{{item.link}}">{{item.name}}</a></li>
+{{/each}}
+</ul></span>
+</span>
+<style type="text/css">
+	.downwardslider {
+		color: #0000FF;
+		text-decoration: underline;
+	}
+	.hidden {
+		display:none;
+	}
+	.items {
+		color: black;
+		text-decoration: none;
+	}
+</style>
