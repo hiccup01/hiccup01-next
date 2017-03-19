@@ -20,6 +20,7 @@
 <script src="Email.js"></script>
 <script src="Keybase.js"></script>
 <script src="DownwardSlider.js"></script>
+<script src="HostedString.js"></script>
 <script type="text/javascript">
   var contact = new Email({
     target: document.querySelector('email'),
@@ -57,6 +58,13 @@
     } else {
     	event.target.childNodes[2].style.display = "block";
     }
+  });
+  var hostedstring = new HostedString({
+  	target: document.querySelector('hosted'),
+  	data: {
+  		server: "MacOS 5.2",
+  		framework: "<a href=\"svelte.technology\">Svelte</a>"
+  	}
   });
 </script>
 </body>
