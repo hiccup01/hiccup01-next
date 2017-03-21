@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/serverhiccups
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hiccup01.com
+  * I am serverhiccups (https://keybase.io/serverhiccups) on keybase.
+  * I have a public key with fingerprint A116 084A 2F9B 9EB2 307A  1366 A3F2 A3AA 040D 2BC4
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01201f144d4fb7c087ef22c9276e97abbca55f8b2db289476c6588aaa8f9acf6b5040a",
+            "fingerprint": "a116084a2f9b9eb2307a1366a3f2a3aa040d2bc4",
+            "host": "keybase.io",
+            "key_id": "a3f2a3aa040d2bc4",
+            "kid": "0101b418d685b957bb49c18ed956daf6f672624ae9c55dc9b37476018196d6f7d0200a",
+            "uid": "ea591e471691c174e3fe8b8aa4d56619",
+            "username": "serverhiccups"
+        },
+        "revoke": {
+            "sig_ids": [
+                "f2f9061319ce1dcd7b6ec4f9d25d65624a025cc7d6958873fdffba3fc8c71fda0f"
+            ]
+        },
+        "service": {
+            "hostname": "hiccup01.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1490055072,
+    "expire_in": 157680000,
+    "prev": "8202321545a3314e6bfa98b218a768a1d7a11ee658b23cbf6608a7d56ee04a1f",
+    "seqno": 25,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.66
+Comment: https://keybase.io/crypto
+
+yMOyAnicbZJ7UBVVHMcBNYN8TTWYeAlcdfIBzJ59nLOLE47PQpOcprF80PXsecDG
+5e713ssVU8rG0WbwQaLOmDqOSqWpkUqjmSgh0BAgCihoSqYDk5Yp+UibUaezpP+1
+/5zdPd/f9/f5PWoH9omKiy67Xba378DxtdGN1f8URL17xtmxVLIcukRKXyrlsd6D
++SgLhb15NpXSJRkoMuBA06jGLURkAzGuKMRUEGQmwpZFsK5zw1KopRimhiCBumFg
+jA1uYsKhpcuajKUUidv+HBYMBG1/WNhiAKBsaFjhpmUyS1FlhIEKIVa5glWMRRBV
+LKKJwFwn5EYIOAuHWJrtiH/iw9uL9z/6p9wysDRgUGjolqkjy9JMAgxGTR1SzCGH
+SIGKhplJdJ0S01KRgJeBAUxIIUdUVuRe7oJeO4Z1EzANAWgCApDGVM4MS9SpUR1C
+YLrCEAv6cT4TavEWYcFcm5CCQEgqSpGCLOLkMbe5ITtHkIek9PkSF8XLEKjAJAxQ
+QpEFGdG4SRWdQt2FkxWdEEShKVqKVE45t0TBxCAIcIplLmULbzeZTXrN3VY9Qfgv
+uQzSiJMv4AJBJ+wQx+fehMOBULpLFV4ScKWLmeV9YuK1bD8VgxIRooCQ7fildCCU
+JGy7rkAzZVnXZaSkSKwwYAeZ13YVOoKGLB43D4sIS0ORFVUBuqZjVQUagxbHplgS
+YGAhxYCKaQPGxKqI0ROLQ7EMGIlWMiZrGHDJLWuR35HSFV1w4hy3qXaOH4cLgkwq
+Olm9oG9UdFzUM/1i3A2Oiosd8nSvnTuDH0NP56CkatWsz/2tfE4LTRx88cG56avO
+1pSuLvBmbn+vfNSyCnXGh3diNvyN2J/f/XS9u6J731Z1clfFldrHVWfmv/VSd6Bs
+Ife9v+64cbsn6/jMyoKPqxqq1YyRsx9O8e6Y4L/y2tDhg5NbSlr/mreaFDutOHN2
+nT/w6MbhXYWf3+vT0nXaP6/h0Iz2TbXbx10b9mLCC7loLG/OXtOUcDYja3NS4fyW
+b+vKR8TUX59wqt2pWNdBr++au3zl6djc0eMuN5Vf29I1Z2Tdc/tPjNuOUMIQs/5S
+5e97s9DjFjvqxMMbaw6uePvusIwt0wadXld5s31x55qmQ8+2XS054GQfmvrjZ+8U
+bxz7xoD12f2/Sm1Jqi/dFX3Kt/N8Jv7l7J6YjH2zdy/KOfhp32J6txXdKru7smtM
+J6pMzFT42o5To31tVetLl+35ImvMkh/6lCQ2TvKUri6MTNxWPKHHt/Vy84q1CxoD
+CQdGesbHHlyFT34w/diInffOq409tReOVITiycVJyxpP7lm+7eX6ImvSFePSEVoy
+J6nN0z0qG8/1pE68EHm4YujGQMfMSP/p+5Wj/HDemNFTLzb785uSO4Y1VMWnde72
+5n997I/kR7E1HyVE9+ytuRl5/U3f/Vm3WHBKw6vxnk8yhk/+Mvlqv1n3l39ftPlc
+5c9xl18JTV2o/3r0wTdF7XHPb3rUoc1t3jAgdZ+nzf4XWrjopg==
+=94GX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/serverhiccups
+
+==================================================================
+
