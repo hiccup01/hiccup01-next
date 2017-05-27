@@ -24,6 +24,7 @@
 <script src="Keybase.js"></script>
 <script src="DownwardSlider.js"></script>
 <script src="HostedString.js"></script>
+<script src="Secret.js"></script>
 <script type="text/javascript">
   var contact = new Email({
     target: document.querySelector('email'),
@@ -80,6 +81,13 @@
   		server: "MacOS 5.2 Server",
   		framework: "Svelte - the magical disappearing UI framework"
   	}
+  });
+  var secret = new Secret({
+    target: document.querySelector('secret'),
+    data: {
+      secretid: "bestsecretever",
+      text: "serverhiccups"
+    }
   });
 </script>
 </body>
