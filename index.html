@@ -92,11 +92,14 @@
   function darkMode() {
     document.body.style.color = "#FFFFFF";
     document.body.style.background = "#222222";
+
   }
 
   document.querySelector('secret').addEventListener('click', event => {
     document.title = "You found me!";
     darkMode();
+    document.body.appendChild(document.createElement("HR"));
+    document.body.appendChild(document.createTextNode("Dark Mode!"));
   });
 </script>
 </body>
