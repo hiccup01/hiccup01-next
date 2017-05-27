@@ -6,7 +6,7 @@
   <link rel="icon" type="image/png" href="/img/logoball.png">
   <meta charset="utf-8">
 </head>
-<body>
+<body id="body">
 <noscript><span>It seems you have Javascript disabled, if you would like to view a HTML/CSS only version click <a href="noscript.html">here</a>.</span><hr></noscript>
 <h2>hiccup01's Website</h2>
 <p>Hi, I'm hiccup01, also known as <secret></secret> and I program things. On a side note I also play a lot of floorball. You can find me all over the internet but the best place to contact me is messaging me on <keybase></keybase>.</p><hr>
@@ -90,9 +90,8 @@
     }
   });
   function darkMode() {
-    document.querySelector("body").style.color == "#FFFFFF";
-    document.querySelector("body").style.background == "#222222"
-    document.querySelector("a").style.color == "light blue";
+    document.getElementById('body').style.color == "#FFFFFF";
+    document.getElementById('').style.background == "#222222"
   }
 
   document.querySelector('secret').addEventListener('click', event => {
