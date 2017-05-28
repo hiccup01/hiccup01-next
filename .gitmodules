@@ -1,0 +1,3 @@
+[submodule "Poo-Soundboard"]
+	path = Poo-Soundboard
+	url = git@github.com:hiccup01/Poo-Soundboard.git
