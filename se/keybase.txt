@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/serverhiccups
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://se.hiccup01.com
+  * I am serverhiccups (https://keybase.io/serverhiccups) on keybase.
+  * I have a public key ASCYpUYIWbuDmv-3JoRcsE3aps4IIfpLLXhfT1bJFG_SeAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201f144d4fb7c087ef22c9276e97abbca55f8b2db289476c6588aaa8f9acf6b5040a",
+      "host": "keybase.io",
+      "kid": "012098a5460859bb839affb726845cb04ddaa6ce0821fa4b2d785f4f56c9146fd2780a",
+      "uid": "ea591e471691c174e3fe8b8aa4d56619",
+      "username": "serverhiccups"
+    },
+    "merkle_root": {
+      "ctime": 1501531594,
+      "hash": "13fc73fec9e0f6a634e29871aea3bb99482b9d6a4e8924bd5c301696fb9319ffe0ff5f6d216cbc4585c54335635f7b7d7a25fa2944d712896756bb43e32cf4f3",
+      "hash_meta": "a9776ef3b6a8d3133e8933b5996f010832d4878cf1ed5220de48d6864b11944f",
+      "seqno": 1294038
+    },
+    "service": {
+      "hostname": "se.hiccup01.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.26"
+  },
+  "ctime": 1501531648,
+  "expire_in": 504576000,
+  "prev": "057d4d1fb8d3ce3c6255616bdca11a95341ae0c6d3ea6fa7ac3e997475423f0c",
+  "seqno": 43,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmKVGCFm7g5r/tyaEXLBN2qbOCCH6Sy14X09WyRRv0ngKp3BheWxvYWTFA017ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMWYxNDRkNGZiN2MwODdlZjIyYzkyNzZlOTdhYmJjYTU1ZjhiMmRiMjg5NDc2YzY1ODhhYWE4ZjlhY2Y2YjUwNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOThhNTQ2MDg1OWJiODM5YWZmYjcyNjg0NWNiMDRkZGFhNmNlMDgyMWZhNGIyZDc4NWY0ZjU2YzkxNDZmZDI3ODBhIiwidWlkIjoiZWE1OTFlNDcxNjkxYzE3NGUzZmU4YjhhYTRkNTY2MTkiLCJ1c2VybmFtZSI6InNlcnZlcmhpY2N1cHMifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDE1MzE1OTQsImhhc2giOiIxM2ZjNzNmZWM5ZTBmNmE2MzRlMjk4NzFhZWEzYmI5OTQ4MmI5ZDZhNGU4OTI0YmQ1YzMwMTY5NmZiOTMxOWZmZTBmZjVmNmQyMTZjYmM0NTg1YzU0MzM1NjM1ZjdiN2Q3YTI1ZmEyOTQ0ZDcxMjg5Njc1NmJiNDNlMzJjZjRmMyIsImhhc2hfbWV0YSI6ImE5Nzc2ZWYzYjZhOGQzMTMzZTg5MzNiNTk5NmYwMTA4MzJkNDg3OGNmMWVkNTIyMGRlNDhkNjg2NGIxMTk0NGYiLCJzZXFubyI6MTI5NDAzOH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJzZS5oaWNjdXAwMS5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNiJ9LCJjdGltZSI6MTUwMTUzMTY0OCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIwNTdkNGQxZmI4ZDNjZTNjNjI1NTYxNmJkY2ExMWE5NTM0MWFlMGM2ZDNlYTZmYTdhYzNlOTk3NDc1NDIzZjBjIiwic2Vxbm8iOjQzLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQAAUtphym+8gkmBPt5NwDAi93oy3z6xc3OFbPOUnG7Qs3PZxMyq7rUj/Sii1YBCZ1/UNlBRAvCjFv8KcILT7UQWoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAim3U7Xr2tobR0HJoSCYHujCEj9i32FMvrN+jBZtz396N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/serverhiccups
+
+==================================================================
